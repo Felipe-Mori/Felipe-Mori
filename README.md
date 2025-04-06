@@ -1,7 +1,5 @@
 ## 💻Felipe Mori
 
-- 🔭 Trabalho: Ciêntista de Dados
-- 🌱 Especializando para ser um ML/AI Enginner
 - ✉️ Email: moriferreirafelipe@gmail.com
 - 📨 Linkedin: Felipe Mori Ferreira
 
